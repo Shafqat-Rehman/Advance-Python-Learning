@@ -1,0 +1,7 @@
+print("Name: Shafqat Rehman")
+print("Father Name: Abdul Rehman")
+print("Current Status: Professional as well as Student.")
+print("Job Title: Incharg HRMIS Branch & IT Branch at Punjab Highway Patrol HQ CPO Complex")
+print("Student: Persuing BS IT 7th semester from Virtual University.")
+print("Age: 26 years old")
+print("City: Sahiwal")
