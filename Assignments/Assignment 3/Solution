@@ -1,0 +1,55 @@
+name = "Rana Shafqat Rehman"
+print(name.upper())  # All in upper case like RANA SHAFQAT REHMAN with upper()
+print(name.lower())  # All in lower case like rana shafqat rehman with lower()
+print(name.title())  # All in upper case like Rana Shafqat Rehman with title()
+
+first_name = "Shafqat"
+last_name = "Rehman"
+full_name = f"{first_name} {last_name}"  # f-string to add above two variables
+print(f"Hello, {full_name}!")
+
+print("Rana \n\tShafqat \n\t\tRehman")  #\n for New line and \t for add tab space
+
+message = "    Rana Shafqat Rehman    "
+print(message.strip())  # for removing all extra space
+print(message.rstrip())  # for removing right space
+print(message.lstrip())  # for removing left space
+
+name = "Rana Shafqat Rehman"
+print(name.removeprefix("Rana"))  # to remove prefix
+
+name= "Rana Shafqat Rehman"  # use double qouts
+name1 = 'Shafqat "Rehman"'  # if we specied single word in string with double quots the whole string must be in single quots
+print(name)
+print(name1)
+
+#Integers are whole numbers.
+a = 10
+b = 5
+print("a=",a)
+print("b=",b)
+print("a + b=",a + b)  # 15
+print("a - b=",a - b)  # 5
+print("a * b=",a * b)  # 50
+print("a / b=",a / b)  # 2.0
+
+#Floats are numbers with decimals.
+x = 3  # integer
+y = 2.5  # float
+print("x + y=",x + y)  # 5.5
+
+#A list is an ordered collection of items.
+fruits = ["apple", "banana", "cherry"]
+favorite_fruit = fruits[0]
+print(fruits)
+#Access elements in a list using their index:
+print(fruits[0])  # apple
+print(fruits[1])  # banana
+#You can use a list's element by storing it in a variable:
+print(f"My favorite fruit is {favorite_fruit}.")
+#Indexing
+print(fruits[-1])  # cherry
+#slicing
+print(fruits[0:2])  # ['apple', 'banana']
+print(fruits[1:])   # ['banana', 'cherry']
+print(fruits[:2])   # ['apple', 'banana']
