@@ -1,0 +1,16 @@
+1. Overview
+   This assignment covers variables, type casting, user input, string methods, numeric operations, lists, and basic list methods. You will create and manipulate data in Python to practice these skills.
+
+2. What to Do 
+Read through all parts of the assignment carefully: Parts 1, 2, 3, and 4 (optional challenges).
+Implement the tasks in your own Python script (`your PIAIC rollnumber.ipynb`).
+Feel free to answer the Reflection Questions  (RQ1–RQ4) as comments in your code.
+
+3. Submission
+   Submission Instructions:
+Complete the assignment in Google Colab or any Python-compatible editor.
+Submit your .ipynb file or link to your Google Colab notebook in the Google Classroom assignment submission portal.
+Ensure permissions for shared files are set to "Anyone with the link can view."
+In the Google Classroom assignment , click on “Add or create” to upload your `your PIAIC rollnumber.ipynb` file.
+Make sure your code runs without errors. 
+Provide brief answers to the reflection questions in your code (as comments).
