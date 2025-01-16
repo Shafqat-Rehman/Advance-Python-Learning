@@ -1,0 +1,79 @@
+# we start to create assignment #02 by using colab
+# To display a message on screen we use print Statement
+print("This is my Second Assignment")
+
+# Now we use variable and it is used to display its valure on screen
+name="Rana Shafqat Rehman"
+roll_number="PIAIC252877"
+print("Name: ",name)
+print("Roll #: ",roll_number)
+
+# Now we using different data types for variables
+a = 3
+b = 4
+c = 5.5
+d = "Shafqat"
+e = 50.50
+print("Data type of a is :", type(a))
+print("Data type of b is :", type(b))
+print("Data type of c is :", type(c))
+print("Data type of d is :", type(d))
+print("Data type of e is :", type(e))
+
+# Applying different operation by using variables
+a = 3
+b = 4
+c = 5.5
+d = "Shafqat"
+e = 50.50
+#Also print value of variables on screen
+print("Value of a is :", a)
+print("\n") # create empty line
+print("Value of b is :", b)
+print("\n") # create empty line
+print("Value of c is :", c)
+print("\n") # create empty line
+print("Value of d is :", d)
+print("\n") # create empty line
+print("Value of e is :", e)
+print("\n") # create empty line
+print("\n") # create empty line
+
+
+# add two variables
+sum = a + b
+print("Sum of a and b is :", sum)
+
+print("\n") # create empty line
+# multiply two variables
+mul = a * b
+print("Multiplication of a and b is :", mul)
+
+print("\n") # create empty line
+# divide two variables
+div = a / b
+print("Division of a and b is :", div)
+
+print("\n") # create empty line
+# add two variables with different data type
+sum = a + c
+print("Sum of a and c is :", sum)
+
+print("\n") # create empty line
+# multiply two variables with different data type
+mul = a * c
+print("Multiplication of a and c is :", mul)
+
+print("\n") # create empty line
+# divide two variables with different data type
+div = a / c
+print("Division of a and c is :", div)
+
+print("\n") # create empty line
+print("\n") # create empty line
+
+print("<---------------------------------->")
+print("<---------------------------------->")
+print("<---------------End---------------->")
+print("<---------------------------------->")
+print("<---------------------------------->")
