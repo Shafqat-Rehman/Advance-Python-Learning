@@ -1,0 +1,33 @@
+Assignment 01: Python Setup and Basic Print Statements
+Jahanzaib Tayyab
+•
+Dec 9, 2024 (Edited Dec 16, 2024)
+5
+/5
+5 points out of possible 5
+Due Dec 14, 2024, 11:59 PM
+Objective: Ensure Python and VS Code are installed correctly, practice verifying Python installation, and write basic print statements.
+
+
+Tasks: 
+Install Python on your laptop. (https://www.python.org/downloads/)
+Install Visual Studio Code (VS Code).  (https://code.visualstudio.com/)
+Take a screenshot of both installations.
+Verify Python Installation:
+Open your command line or terminal.
+Type python --version and press Enter to check the Python version.
+Take a screenshot of the output.
+Set up a GitHub Account:
+Create a GitHub account if you don't have one. (https://github.com/)
+Take a screenshot of your GitHub profile.
+Run Basic Print Statements:
+
+Write a Python script with the following print() statements:
+Your name
+Your father's name
+Your current status (student or professional)
+If professional, your job title
+If a student, your field of study
+Your age
+Your city
+Run the script in Google Colab or locally 
